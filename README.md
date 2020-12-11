@@ -1,6 +1,8 @@
 ## Rossano Marcos
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rossano%20Marcos-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rossanomarcos)
+- 📫 How to reach me: ...
+
+[![Linkedin Badge](https://img.shields.io/badge/-Rossano%20Marcos-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rossanomarcos/)
 [![GitHub Badge](https://img.shields.io/badge/-Rossano%20Marcos-black?style=flat-square&logo=github&logoColor=white)](https://github.com/rossanomarcos)
 [![Twitter Badge](https://img.shields.io/badge/-rossanomarcos-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rossanomarcos)
 [![Gmail Badge](https://img.shields.io/badge/-rossanomarcos@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:rossanomarcos@gmail.com)
