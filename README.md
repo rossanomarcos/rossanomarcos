@@ -7,6 +7,17 @@
 [![Twitter Badge](https://img.shields.io/badge/-rossanomarcos-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rossanomarcos)
 [![Gmail Badge](https://img.shields.io/badge/-rossanomarcos@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:rossanomarcos@gmail.com)
 
+- 🔭 I’m currently working on ...
+
+### Content
+
+#### Written
+
+#### Spoken
+
+#### Video
+
+
 <!--
 **rossanomarcos/rossanomarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
