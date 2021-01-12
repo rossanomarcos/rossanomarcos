@@ -1,6 +1,6 @@
 ## Rossano Marcos
 
-- ⚡ I have over +20 years working with large-scale data processing projects.
+- 🔭 I have more than 20 years working with large-scale data processing projects for several customers.
 
 - 📫 How to reach me:
 
