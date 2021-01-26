@@ -1,5 +1,14 @@
 ## Rossano Marcos
 
+{
+"version": "1.1.0",
+"author": "Rossano Marcos",
+"email": "rossanomarcos@gmail.com",
+"website": "https://linktr.ee/rossanomarcos",
+"copyright": "Copyright 2021 Rossano Marcos. All rights reserved."
+}
+
+
 - 🔭 I have more than 20 years working with large-scale data processing projects for different companies and clients.
 
 - 📫 How to reach me:
