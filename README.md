@@ -10,8 +10,6 @@ You can reach me through:
 
 - [LinkedIn](https://www.linkedin.com/in/rossanomarcos/)
 - [Email](mailto:rossanomarcos@gmail.com)
-- [GitHub](https://github.com/rossanomarcos)
-- [Twitter](https://twitter.com/rossanomarcos)
 
 ---
 
