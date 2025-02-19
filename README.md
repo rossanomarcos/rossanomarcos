@@ -26,7 +26,7 @@ You can reach me through:
 I’m open to projects involving:
 
 - Data processing and architecture design
-- Machine learning integration
+- Data Modeling 
 - Cloud-based solutions and optimization
 
 ---
