@@ -1,26 +1,36 @@
-- 🔭 I have more than 20 years working with large-scale data processing projects for different companies and clients.
+# Rossano Marcos
 
-- 📫 How to reach me:
+With over **20 years** of experience in **large-scale data processing**, I’ve worked with various companies to build efficient and scalable data solutions.
 
-  [![Linkedin Badge](https://img.shields.io/badge/-Rossano%20Marcos-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rossanomarcos/)
-  [![Gmail Badge](https://img.shields.io/badge/-rossanomarcos@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:rossanomarcos@gmail.com)
-  [![GitHub Badge](https://img.shields.io/badge/-Rossano%20Marcos-black?style=flat-square&logo=github&logoColor=white)](https://github.com/rossanomarcos)
-  [![Twitter Badge](https://img.shields.io/badge/-rossanomarcos-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rossanomarcos)
-  
+---
 
+### 📬 **Get in Touch**
 
+You can reach me through:
 
-<!--
-**rossanomarcos/rossanomarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [LinkedIn](https://www.linkedin.com/in/rossanomarcos/)
+- [Email](mailto:rossanomarcos@gmail.com)
+- [GitHub](https://github.com/rossanomarcos)
+- [Twitter](https://twitter.com/rossanomarcos)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **What I Do**
+
+- **Data Engineering**: Building and optimizing data pipelines and architectures.
+- **Distributed Systems**: Scaling solutions using cloud platforms and big data technologies.
+- **Continuous Learning**: Exploring **machine learning** and **advanced data analytics**.
+
+---
+
+### **Collaboration Interests**
+
+I’m open to projects involving:
+
+- Data processing and architecture design
+- Machine learning integration
+- Cloud-based solutions and optimization
+
+---
+
+Feel free to reach out for collaboration or discussions!
